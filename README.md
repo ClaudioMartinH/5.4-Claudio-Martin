@@ -26,13 +26,12 @@
 
 ## 📝 Contenidos
 
-|[🧐 Acerca de...](#about)
---
-|[🏁 Comenzando](#getting_started)
-|[🚀 Uso](#usage)
-|[⛏️ Tecnologias usadas](#built_using)
-|[✍️ Autor](#authors)
-|[🎉 Fuentes](#acknowledgement)
+-[🧐 Acerca de...](#about)
+-[🏁 Comenzando](#getting_started)
+-[🚀 Uso](#usage)
+-[⛏️ Tecnologias usadas](#built_using)
+-[✍️ Autor](#authors)
+-[🎉 Fuentes](#acknowledgement)
 
 ---
 
